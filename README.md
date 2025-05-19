@@ -31,6 +31,17 @@ use this comand
 
 ```bash
 streamlit run stream_tumor.py
+```
+
+## Screenshots
+
+![App Screenshot](https://github.com/shivanshu099/altar_brain_tumor_hackathon/blob/main/screenshot1.png)
+
+![App Screenshot](https://github.com/shivanshu099/altar_brain_tumor_hackathon/blob/main/screenshot2.png)
+
+
+
+
 
 
 
